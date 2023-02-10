@@ -1,0 +1,10 @@
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\Файловый менеджер\Файловый менеджер\bin\Debug\Файловый менеджер.exe.config
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\Файловый менеджер\Файловый менеджер\bin\Debug\Файловый менеджер.exe
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\Файловый менеджер\Файловый менеджер\bin\Debug\Файловый менеджер.pdb
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\Файловый менеджер\Файловый менеджер\obj\Debug\Файловый менеджер.csprojAssemblyReference.cache
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\Файловый менеджер\Файловый менеджер\obj\Debug\Файловый_менеджер.Form1.resources
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\Файловый менеджер\Файловый менеджер\obj\Debug\Файловый_менеджер.Properties.Resources.resources
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\Файловый менеджер\Файловый менеджер\obj\Debug\Файловый менеджер.csproj.GenerateResource.cache
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\Файловый менеджер\Файловый менеджер\obj\Debug\Файловый менеджер.csproj.CoreCompileInputs.cache
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\Файловый менеджер\Файловый менеджер\obj\Debug\Файловый менеджер.exe
+C:\Users\Wait4n\Desktop\занятие на каждый день\Borland Delphi c#\Файловый менеджер\Файловый менеджер\obj\Debug\Файловый менеджер.pdb
